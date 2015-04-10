@@ -47,7 +47,6 @@ npm install stargaze
 var stargaze = require('stargaze')
 
 stargaze('facebook/react', {verbose: true}, function(stars) {
-  console.log('starz ' + stars)
   if (stars % 1000 === 0) {
     tweet('OMG Base 10! ' + stars)
   }
