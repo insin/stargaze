@@ -1,0 +1,28 @@
+{
+  "name": "stargaze",
+  "version": "1.0.0",
+  "description": "Watch a GitHub repo's star count, with change notifications on your desktop",
+  "main": "index.js",
+  "dependencies": {
+    "node-notifier": "^4.1.2",
+    "minimist": "^1.1.1",
+    "request": "^2.55.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/insin/stargaze.git"
+  },
+  "bin": {
+    "stargaze": "./bin/stargaze.js"
+  },
+  "keywords": [
+    "github",
+    "stars"
+  ],
+  "author": "Jonny Buchanan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/insin/stargaze/issues"
+  },
+  "homepage": "https://github.com/insin/stargaze"
+}
