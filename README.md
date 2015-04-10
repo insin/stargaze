@@ -3,7 +3,7 @@
 Watch a GitHub repo's star count, with change notifications on your desktop via
  [node-notifier](https://github.com/mikaelbr/node-notifier).
 
-![Example Stargaze notification using a Windows taskbar balloon](https://github.com/insin/stargze/raw/master/example.png)
+![Example Stargaze notification using a Windows taskbar balloon](https://github.com/insin/stargaze/raw/master/example.png)
 
 ### Command-Line Usage
 
